@@ -53,7 +53,7 @@ body {
 }
 
 .hero {
-    background-image: url('home.jpg');
+    background-image: url('img/home.jpg');
     background-size: cover;
     color: #fff;
     padding: 100px 20px;
